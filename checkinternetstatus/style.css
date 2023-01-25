@@ -1,0 +1,15 @@
+body {
+    background-color:#f1c40f;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.status {
+    padding: 20px 40px;
+    font-family: Helvetica;
+    color: #fff;
+    letter-spacing: 1px;
+}
